@@ -1,0 +1,25 @@
+{
+  "name": "i18next-repro",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "i18next": "^22.0.4",
+    "i18next-http-backend": "^1.4.5",
+    "next": "^12.2.5",
+    "next-i18next": "^12.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^11.18.6"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.10",
+    "typescript": "^4.8.4"
+  }
+}
